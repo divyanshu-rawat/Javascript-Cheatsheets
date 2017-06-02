@@ -13,7 +13,7 @@
 ##
 
 #### Description 
-* This repository consist of chaeatsheets of JS Framworks &amp; Libraries.
+* This repository consist of cheatsheets of JS Framworks &amp; Libraries.
 
 ##
 
